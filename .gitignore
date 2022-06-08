@@ -34,6 +34,7 @@ Temporary Items
 ### macOS Patch ###
 # iCloud generated files
 *.icloud
+.DS_Store
 
 ### MicrosoftOffice ###
 *.tmp
